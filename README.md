@@ -18,3 +18,4 @@ Hi, my name is Yan (known as Shadowraze or shadowraze#4514) and I am a 19 year o
 ##
 
 <img align="right" src="https://komarev.com/ghpvc/?username=SocketSomeone&label=💖" alt="Profile Views"/>
+<img align="right" src="https://komarev.com/ghpvc/?username=shadowrazeq&label=💖" alt="Profile Views"/>
